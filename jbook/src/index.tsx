@@ -10,7 +10,6 @@ const App = () => {
   const [input, setInput] = useState('');
   //const [code, setCode] = useState('');
   //const code;
-  //const
 
   const onClick = () => {
     console.log(input);
