@@ -8,8 +8,7 @@ const root = ReactDOM.createRoot(el!);
 const App = () => {
 
   const [input, setInput] = useState('');
-  //const [code, setCode] = useState('');
-  //const code;
+
 
   const onClick = () => {
     console.log(input);
